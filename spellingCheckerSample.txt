@@ -1,0 +1,6 @@
+{
+  "texts": [
+    "This is an exmple sentence.",
+    "Alice and Bob are working on this."
+  ]
+}
